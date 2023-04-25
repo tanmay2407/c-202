@@ -12,9 +12,9 @@ server.listen()
 clients = []
 nicknames = []
 questions = [
-  "What's 9 + 10? \n a) 1 \n b) 19 \n c) 21 \n d) 90",
-  "What is Obama's last name? \n a) Barack \n b) Johnnythan \n c) John2 \n d) Obama",
-  "How many letters are in The Alphabet? \n a) 26 \n b) 11 \n c) 8 \n d) 27"
+  "What is 9 + 10? \n a) 1 \n b) 19 \n c) 21 \n d) 90",
+  "What is 1+2 \n a) 2 \n b) 33 \n c) 1 \n d) 3",
+  "what is 1-1? \n a) 0 \n b) 1 \n c) 2 \n d) 3"
 ]
 answers = ["c","d","b"]
 numOfQ = len(questions)
